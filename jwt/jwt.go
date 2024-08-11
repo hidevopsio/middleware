@@ -6,7 +6,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/dgrijalva/jwt-go"
+	"github.com/golang-jwt/jwt"
 
 	"github.com/hidevopsio/iris"
 	"github.com/hidevopsio/iris/context"

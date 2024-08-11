@@ -16,7 +16,7 @@ import (
 	"github.com/hidevopsio/iris/context"
 	"github.com/hidevopsio/iris/httptest"
 
-	"github.com/dgrijalva/jwt-go"
+	"github.com/golang-jwt/jwt"
 	jwtmiddleware "github.com/hidevopsio/middleware/jwt"
 )
 
