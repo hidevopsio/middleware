@@ -65,8 +65,8 @@ github.com/hidevopsio/golog v0.0.0-20240811115351-6b4a7711e704 h1:+MB2aj5w+IKZum
 github.com/hidevopsio/golog v0.0.0-20240811115351-6b4a7711e704/go.mod h1:PAdSAVsgMTZgHMHR9QU07S+gIJY2D8hc7MNVvhazxNE=
 github.com/hidevopsio/httpexpect v0.0.0-20240811100504-92ed99bc8bec h1:P8Cc0RBRffxmihk8Q6VajQhvZsJ/i1BmtLMqmr+OtSk=
 github.com/hidevopsio/httpexpect v0.0.0-20240811100504-92ed99bc8bec/go.mod h1:bdWZrbWv4cxf1vR3lNiIJ2LBYfVmUAkFDK8ytBubtv8=
-github.com/hidevopsio/iris v0.0.0-20240811115657-f06d7d754b09 h1:phFvdBpZxMGgLm0D3vqxwA0ABDbXRu+egHyxXisseiM=
-github.com/hidevopsio/iris v0.0.0-20240811115657-f06d7d754b09/go.mod h1:YuBwnaqc5P/A86n6vAnydiP+0GqyNnnWZXYEPmOq1yI=
+github.com/hidevopsio/iris v0.0.0-20240811120319-a03367d74765 h1:z4a5CSZYdU5d+PdwYdCKb58GlELlapuYCrxegiPsePo=
+github.com/hidevopsio/iris v0.0.0-20240811120319-a03367d74765/go.mod h1:YuBwnaqc5P/A86n6vAnydiP+0GqyNnnWZXYEPmOq1yI=
 github.com/hidevopsio/pio v0.0.0-20240811115022-e705bbf749aa h1:41FkUR+YfRYm5M/Rsg3gi2B2gdKPI8QUVKwi0ZqG6b8=
 github.com/hidevopsio/pio v0.0.0-20240811115022-e705bbf749aa/go.mod h1:/LeeTJc9++Q453YJy8sXmDxQbVFkpD3CzpLz8zSScWs=
 github.com/imkira/go-interpol v1.1.0 h1:KIiKr0VSG2CUW1hl1jpiyuzuJeKUUpC8iM1AIE7N1Vk=
