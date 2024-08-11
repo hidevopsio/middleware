@@ -7,7 +7,7 @@ The authorization determines a request based on `{subject, object, action}`. Ple
 
 ```sh
 $ go get github.com/casbin/casbin
-$ go get github.com/iris-contrib/middleware/casbin
+$ go get github.com/hidevopsio/middleware/casbin
 ```
 
 ## Table of contents

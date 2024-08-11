@@ -3,8 +3,8 @@ package main
 import (
 	"github.com/hidevopsio/iris"
 
-	// $ go get github.com/iris-contrib/middleware/...
-	ravenIris "github.com/iris-contrib/middleware/raven"
+	// $ go get github.com/hidevopsio/middleware/...
+	ravenIris "github.com/hidevopsio/middleware/raven"
 )
 
 // https://docs.sentry.io/clients/go/integrations/http/

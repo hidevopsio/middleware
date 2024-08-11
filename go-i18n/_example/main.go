@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/hidevopsio/iris"
-	i18n "github.com/iris-contrib/middleware/go-i18n"
+	i18n "github.com/hidevopsio/middleware/go-i18n"
 )
 
 type User struct {

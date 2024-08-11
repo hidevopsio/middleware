@@ -6,7 +6,7 @@ package main
 import (
 	"github.com/hidevopsio/iris"
 
-	"github.com/iris-contrib/middleware/cors"
+	"github.com/hidevopsio/middleware/cors"
 )
 
 func main() {

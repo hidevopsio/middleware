@@ -13,7 +13,7 @@ package main
 import (
 	"github.com/hidevopsio/iris"
 
-	"github.com/iris-contrib/middleware/csrf"
+	"github.com/hidevopsio/middleware/csrf"
 )
 
 func main() {
