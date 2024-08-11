@@ -9,7 +9,7 @@ require (
 	github.com/getsentry/raven-go v0.2.0
 	github.com/golang-jwt/jwt v3.2.2+incompatible
 	github.com/gorilla/securecookie v1.1.2
-	github.com/hidevopsio/iris v0.0.0-20240811120319-a03367d74765
+	github.com/hidevopsio/iris v0.0.0-20240811142313-7ed19cd46895
 	github.com/nicksnyder/go-i18n v1.10.3
 	github.com/prometheus/client_golang v1.19.1
 	github.com/rs/cors v1.11.0
