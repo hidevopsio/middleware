@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/kataras/iris/context"
+	"github.com/hidevopsio/iris/context"
 )
 
 // Token returns a masked CSRF token ready for passing into HTML template or
@@ -50,12 +50,11 @@ func UnsafeSkipCheck(ctx context.Context) {
 //
 // Example:
 //
-//      // The following tag in our form.tmpl template:
-//      {{ .csrfField }}
+//	// The following tag in our form.tmpl template:
+//	{{ .csrfField }}
 //
-//      // ... becomes:
-//      <input type="hidden" name="gorilla.csrf.Token" value="<token>">
-//
+//	// ... becomes:
+//	<input type="hidden" name="gorilla.csrf.Token" value="<token>">
 func TemplateField(ctx context.Context) template.HTML {
 	if name := ctx.Values().Get(formKey); name != nil {
 		fragment := fmt.Sprintf(`<input type="hidden" name="%s" value="%s">`,

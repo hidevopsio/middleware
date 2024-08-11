@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/hidevopsio/iris"
 	i18n "github.com/iris-contrib/middleware/go-i18n"
-	"github.com/kataras/iris"
 )
 
 type User struct {

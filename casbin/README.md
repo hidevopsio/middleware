@@ -1,6 +1,6 @@
 # Casbin
 
-[iris](https://github.com/kataras/iris) web framework's [casbin](https://github.com/casbin/casbin) middleware.
+[iris](https://github.com/hidevopsio/iris) web framework's [casbin](https://github.com/casbin/casbin) middleware.
 
 
 The authorization determines a request based on `{subject, object, action}`. Please refer to [the Casbin's documentation](https://github.com/casbin/casbin) in order to understand how it works first.

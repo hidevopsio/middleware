@@ -3,8 +3,8 @@ package cors
 import (
 	"net/http"
 
-	"github.com/kataras/iris/context"
-	"github.com/kataras/iris/core/handlerconv"
+	"github.com/hidevopsio/iris/context"
+	"github.com/hidevopsio/iris/core/handlerconv"
 
 	"github.com/rs/cors"
 )

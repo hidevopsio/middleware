@@ -3,7 +3,7 @@ package i18n
 import (
 	"strings"
 
-	"github.com/kataras/iris/context"
+	"github.com/hidevopsio/iris/context"
 	"github.com/nicksnyder/go-i18n/i18n/bundle"
 )
 
@@ -23,7 +23,7 @@ type I18n struct {
 	Bundle *bundle.Bundle
 }
 
-//New returns a new i18n middleware and load locale files by given args
+// New returns a new i18n middleware and load locale files by given args
 func New(locales ...string) *I18n {
 	b := bundle.New()
 	for _, loc := range locales {

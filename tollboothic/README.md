@@ -3,7 +3,7 @@
 Rate limiting HTTP requests.
 
 
-[iris](https://github.com/kataras/iris) web framework's [tollbooth](https://github.com/didip/tollbooth) middleware.
+[iris](https://github.com/hidevopsio/iris) web framework's [tollbooth](https://github.com/didip/tollbooth) middleware.
 
 
 
