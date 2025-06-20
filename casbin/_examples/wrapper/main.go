@@ -3,11 +3,10 @@ package main
 import (
 	"github.com/hidevopsio/iris"
 
-	"github.com/casbin/casbin"
 	cm "github.com/hidevopsio/middleware/casbin"
 )
 
-// $ go get github.com/casbin/casbin
+// $ go get github.com/casbin/casbin/v2
 // $ go run main.go
 
 // Enforcer maps the model and the policy for the casbin service, we use this variable on the main_test too.

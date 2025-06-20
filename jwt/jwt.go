@@ -3,10 +3,9 @@ package jwt
 import (
 	"errors"
 	"fmt"
+	"github.com/golang-jwt/jwt/v5"
 	"log"
 	"strings"
-
-	"github.com/golang-jwt/jwt"
 
 	"github.com/hidevopsio/iris"
 	"github.com/hidevopsio/iris/context"

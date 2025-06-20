@@ -10,13 +10,13 @@ package jwt_test
 // It's here for your learning curve.
 
 import (
+	"github.com/golang-jwt/jwt/v5"
 	"testing"
 
 	"github.com/hidevopsio/iris"
 	"github.com/hidevopsio/iris/context"
 	"github.com/hidevopsio/iris/httptest"
 
-	"github.com/golang-jwt/jwt"
 	jwtmiddleware "github.com/hidevopsio/middleware/jwt"
 )
 

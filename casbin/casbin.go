@@ -4,8 +4,6 @@ import (
 	"net/http"
 
 	"github.com/hidevopsio/iris/context"
-
-	"github.com/casbin/casbin"
 )
 
 // New returns the auth service which receives a casbin enforcer.
